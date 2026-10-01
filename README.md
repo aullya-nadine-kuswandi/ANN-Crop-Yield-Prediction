@@ -101,5 +101,3 @@ Future work could explore more informative features, additional data, or feature
 - **Machine Learning:** scikit-learn, XGBoost
 - **Data Handling & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Kaggle Notebooks
-dataset (Parquet file).
-2. Run all cells in order. The notebook cleans the data, trains both ANNs, and prints the benchmark comparison.
